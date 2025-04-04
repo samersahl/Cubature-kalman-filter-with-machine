@@ -1,0 +1,1 @@
+{'activation': 'ReLU', 'batch_size': 8, 'epochs': 900, 'hidden_layers': 4, 'init_mode': 'normal', 'nodes': 20,20,15,5 'optimizer': 'adam'}
